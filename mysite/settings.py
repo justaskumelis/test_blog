@@ -25,7 +25,7 @@ SECRET_KEY = '1_9)wnlgqfc6q_#hz$@ka#+8w))92sz5zpz9d(6x%7!5^)9g%j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['kibiriukas.herokuapp.com']
+ALLOWED_HOSTS = ['188.69.192.196','kibiriukas.herokuapp.com']
 
 
 # Application definition
